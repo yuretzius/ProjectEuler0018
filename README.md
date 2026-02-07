@@ -1,7 +1,7 @@
 # ProjectEuler0018
 My work on
 
-problem #18 of projecteuler.net:
+[problem #18 of projecteuler.net](https://projecteuler.net/problem=18):
 
 Maximum Path Sum I
 
