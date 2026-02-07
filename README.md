@@ -32,7 +32,7 @@ Find the maximum total from top to bottom of the triangle below:
 63 66 04 68 89 53 67 30 73 16 69 87 40 31<br>
 04 62 98 27 23 09 70 98 73 93 38 53 60 04 23<br>
 
-**NOTE:** As there are only $16384$ routes, it is possible to solve this problem by trying every route. However, Problem 67, is the same challenge with a triangle containing one-hundred rows; it cannot be solved by brute force, and requires a clever method! ;o)
+**NOTE:** As there are only $16384$ routes, it is possible to solve this problem by trying every route. However, [Problem 67](https://github.com/yuretzius/ProjectEuler0067), is the same challenge with a triangle containing one-hundred rows; it cannot be solved by brute force, and requires a clever method! ;o)
 
 Completed on Thu, 25 Feb 2021, 06:37
 
@@ -41,7 +41,7 @@ Please note: Project Euler's policy allows publication of solutions for the firs
 that's why I am sharing my work here for reference and educational purposes.
 #######################################################################################
 
-This is the same solution as in Problem 67, only with different input. I've created a data file for this triangle too: [0018_triangle.txt](0018_triangle.txt).
+This is the same solution as in [Problem 67](https://github.com/yuretzius/ProjectEuler0067), only with different input. I've created a data file for this triangle too: [0018_triangle.txt](0018_triangle.txt).
 However, in the python code I just included the data directly in the code.
 
 As noted above, trying the paths from top to bottom is extremely inefficient here. But if we go *from the bottom to the top* in the way of dynamic programming,
