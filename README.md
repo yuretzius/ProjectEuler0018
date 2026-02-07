@@ -41,7 +41,7 @@ Please note: Project Euler's policy allows publication of solutions for the firs
 that's why I am sharing my work here for reference and educational purposes.
 #######################################################################################
 
-This is the same solution as in [Problem 67](https://github.com/yuretzius/ProjectEuler0067), only with different input. I've created a data file for this triangle too: [0018_triangle.txt](0018_triangle.txt).
+This is the same solution as in [Problem 67](https://github.com/yuretzius/ProjectEuler0067), only with different input. I've created a data file for this triangle too: [0018_triangle.txt](https://github.com/yuretzius/ProjectEuler0018/blob/main/0018_triangle.txt).
 However, in the python code I just included the data directly in the code.
 
 As noted above, trying the paths from top to bottom is extremely inefficient here. But if we go *from the bottom to the top* in the way of dynamic programming,
