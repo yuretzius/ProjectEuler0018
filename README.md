@@ -50,7 +50,7 @@ the task becomes very simple. And since it does not matter in what order we add 
 3<br>
 7 4<br>
 2 4 6<br>  
-8 5 9 3<br>
+8 5 9 3<p>
 
 Assume we are already at the line before the last. If we are at $2$, we have to choose between $8$ and $5$, and the maximum choice is $8$, so we can record $8 + 2 = 10$.
 At $4$ we choose between $5$ and $9$, and the larger choice is $9$, so we record $9 + 4 = 13$. Finally, at $6$ we choose between $9$ and $3$, the larger choice is $9$, so
