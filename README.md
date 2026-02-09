@@ -36,10 +36,10 @@ Find the maximum total from top to bottom of the triangle below:
 
 Completed on Thu, 25 Feb 2021, 06:37
 
-#######################################################################################
+#######################################################################################<br>
 Please note: Project Euler's policy allows publication of solutions for the first 100 problems,
 that's why I am sharing my work here for reference and educational purposes.
-#######################################################################################
+#######################################################################################<br>
 
 This is the same solution as in [Problem 67](https://github.com/yuretzius/ProjectEuler0067), only with different input. I've created a data file for this triangle too: [0018_triangle.txt](https://github.com/yuretzius/ProjectEuler0018/blob/main/0018_triangle.txt).
 However, in the python code I just included the data directly in the code.
